@@ -1,4 +1,4 @@
-☁️ KyrlixCloud Bot
+#☁️ KyrlixCloud Bot
 
 An All-in-One Discord Shop & Community Management Bot
 
